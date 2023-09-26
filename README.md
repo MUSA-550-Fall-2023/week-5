@@ -13,6 +13,7 @@
   - [Introductory Blog Post](https://geoffboeing.com/2016/11/osmnx-python-street-networks/)
   - [Jupyter Notebook Examples](https://github.com/gboeing/osmnx-examples/tree/master/notebooks)
   - [Documentation](https://osmnx.readthedocs.io)
+  - [Street orientation example](https://geoffboeing.com/2019/09/urban-street-network-orientation/)
 - Pandana
   - [GitHub](https://github.com/UDST/pandana)
   - [Jupyter Notebook Examples](https://github.com/UDST/pandana/tree/master/examples)
