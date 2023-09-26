@@ -23,7 +23,6 @@
   - [List of OSM amenities](https://wiki.openstreetmap.org/wiki/Key:amenity)
 - [Bounding box tool](http://boundingbox.klokantech.com/)
 - [Rasterio documentation](https://rasterio.readthedocs.io/en/latest/index.html)
-- [More info on CRS](https://datacarpentry.org/organization-geospatial/03-crs/index.html)
 - [EarthPy examples gallery](https://earthpy.readthedocs.io/en/latest/gallery_vignettes/index.html)
 - [Plotting with rasterio](https://rasterio.readthedocs.io/en/stable/topics/plotting.html)
 - [LandSat bands](https://www.usgs.gov/faqs/what-are-best-landsat-spectral-bands-use-my-research?qt-news_science_products=0#qt-news_science_products)
